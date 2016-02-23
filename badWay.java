@@ -1,4 +1,4 @@
-private void printGuessStaticsitcs(char candidate, int count) {
+private void printGuessStatistics(char candidate, int count) {
   String number;
   String verb;
   String pluralModifier;
